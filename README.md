@@ -11,7 +11,7 @@ _Along with 'email capability', it also includes a 'debug mode': `[dev_mode]` wh
 - Self-analysis and assessment: Be aware of your system usage.
 - Workforce Area: [With consent] Monitor employees' system usage.
 - Company Security: Company data exchange and search query monitoring.
-- Educational instituitions: log keystrokes and analyse system usage.
+- Educational instituitions: Log keystrokes and analyse system usage.
 - Parental Control: Monitor childrens' system activity.
 
 ## Snippets
@@ -57,4 +57,4 @@ federal laws.**
 
 This application is a Proof-of-Concept [PoC] to understand the working of a keylogger, purely intended for educational purposes. Do not use it to compromise any unauthorized device; demonstrate on your own devices only.
 
-> NOTE: This application is deliberately not packaged into an executable to avoid malicious usage.
+> NOTE: This application is deliberately not packaged as an executable to avoid malicious usage.
