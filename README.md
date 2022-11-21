@@ -10,7 +10,7 @@ _Along with 'email capability', it also includes a 'debug mode': `[dev_mode]` wh
 - Educational purpose: To understand the working of a keylogger.
 - Self-analysis and assessment: Be aware of your system usage.
 - Workforce Area: [With consent] Monitor employees' system usage.
-- Security Testing: improving the protection against hidden key loggers.
+- Company Security: Company data exchange and search query monitoring.
 - Educational instituitions: log keystrokes and analyse system usage.
 - Parental Control: Monitor childrens' system activity.
 
